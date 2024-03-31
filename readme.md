@@ -1,6 +1,6 @@
 Unofficial ROSA link list by Andrew Grimes 
 <p align="left">
-  <a href="#"><img src=" https://github.com/emcon33/Virtualization_on_ROSA/console.jpg" width="600"></a> <br />
+  <a href="#"><img src="./console.jpg" width="600"></a> <br />
   <em> 
   </em>
   
